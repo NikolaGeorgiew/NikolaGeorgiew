@@ -19,11 +19,16 @@ I'm a passionate and detail-oriented junior software developer with a focus on J
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 💼 Experience
 
-[Carbook](https://github.com/NikolaGeorgiew/carbook) - Simple Web application for renting a cars, written in Java with Spring Boot MVC, Spring Security, Bootstrap, MySQL Database and MVC pattern.
-[Mobilele](https://github.com/NikolaGeorgiew/mobilele) - A project I developed during my last course for buying and selling cars using Spring Boot MVC and Web API.
+- [Carbook](https://github.com/NikolaGeorgiew/carbook) - Simple Web application for renting a cars, written in Java with Spring Boot MVC, Spring Security, Bootstrap, MySQL Database and MVC pattern.
+- 
+- [Mobilele](https://github.com/NikolaGeorgiew/mobilele) - A project I developed during my last course for buying and selling cars using Spring Boot MVC and Web API.
 
 ## 🌱 Currently Learning
 
