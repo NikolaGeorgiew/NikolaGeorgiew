@@ -1,4 +1,4 @@
-### Hello, I'm Nikola  👋
+### Hi, I'm Nikola  👋
 
 I'm a passionate and detail-oriented junior software developer with a focus on Java and JavaScript technologies. Eager to embark on my professional journey in the world of software development, I bring a strong foundation in programming, problem-solving, and a commitment to continuous learning.
 
