@@ -36,7 +36,7 @@ I am actively expanding my knowledge in areas such as Spring to enhance my skill
 
 ## 👯‍♂️ Looking for Opportunities
 
-I am seeking my first job as a developer and am excited about the prospect of contributing to innovative projects. Open to collaborating with dynamic teams and taking on new challenges.
+I am seeking a job as a developer and am excited about the prospect of contributing to innovative projects. Open to collaborating with dynamic teams and taking on new challenges.
 
 ## 📬 Let's Connect
 
