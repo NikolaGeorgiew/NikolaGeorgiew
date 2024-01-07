@@ -27,7 +27,7 @@ I'm a passionate and detail-oriented junior software developer with a focus on J
 ## 💼 Experience
 
 - [Carbook](https://github.com/NikolaGeorgiew/carbook) - Simple Web application for renting a cars, written in Java with Spring Boot MVC, Spring Security, Bootstrap, MySQL Database and MVC pattern.
-- 
+
 - [Mobilele](https://github.com/NikolaGeorgiew/mobilele) - A project I developed during my last course for buying and selling cars using Spring Boot MVC and Web API.
 
 ## 🌱 Currently Learning
